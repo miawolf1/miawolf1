@@ -1,4 +1,4 @@
-# 👋 Hi, I'm **wolf17**
+# 👋 Hi, I'm **Wolf17**
 
 ## 🌱 About Me
 - 🚀 I’m currently learning **C++** and improving my programming skills every day.
