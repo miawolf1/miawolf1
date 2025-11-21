@@ -1,16 +1,17 @@
-## Hi there 👋
+# 👋 Hi, I'm **wolf17**
 
-<!--
-**miawolf1/miawolf1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## 🌱 About Me
+- 🚀 I’m currently learning **C++** and improving my programming skills every day.
+- 💡 I enjoy creating **fun but useful projects** that help me learn new concepts.
+- 🧠 I love experimenting, fixing bugs, and figuring out how things work behind the scenes.
 
-Here are some ideas to get you started:
+## 🎯 Goals
+- Become confident with C++ basics  
+- Build more practical projects  
+- Explore other languages and technologies in the future  
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## ✨ Fun Fact
+I started coding because I love the idea of turning small ideas into real, working programs.
+
+
+
