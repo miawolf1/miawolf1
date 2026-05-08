@@ -6,7 +6,7 @@
 - 🧠 I love experimenting, fixing bugs, and figuring out how things work behind the scenes.
 
 ## 🎯 Goals
-- Become confident with C++ basics  
+- Become confident with C++ and HTML basics  
 - Build more practical projects  
 - Explore other languages and technologies in the future  
 
