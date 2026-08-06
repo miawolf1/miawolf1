@@ -1,4 +1,4 @@
-# 👋 Hi, I'm **Wolf17**
+# 👋 Hi, I'm **CircuitWolf17**
 
 ## 🌱 About Me
 - 🚀 I’m currently learning **C++**, **Python** and improving my programming skills every day.
